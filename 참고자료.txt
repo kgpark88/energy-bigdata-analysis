@@ -1,0 +1,62 @@
+# 에너지 데이터 분석
+o 데이터 과학자가 미래에 핫한 직업인 이유 | A사 데이터 과학자 권재명 [리얼밸리 EP 07]
+https://youtu.be/dZZfDj_ieEU
+
+o Energy Data Analytics
+https://www.youtube.com/watch?v=zA0OklGZlJ8
+
+o Data Analytics Full Course 2022 | Data Analytics For Beginners | Data Analytics Course | Simplilearn
+https://youtu.be/CaqJ65CIoMw
+
+o Elastic Stack kibana로 대시보드 만들기 
+https://www.youtube.com/watch?v=fL_NSvhGquA
+
+o Best Big Data Analytics Tools
+https://www.selecthub.com/big-data-analytics-tools/
+
+
+# 빅데이터
+o Big Data In 5 Minutes | What Is Big Data?| Introduction To Big Data |Big Data Explained |Simplilearn
+https://youtu.be/bAyrObl7TYE
+
+o 6 분 안에 클라우드 컴퓨팅 | 클라우드 컴퓨팅이란? | 클라우드 컴퓨팅 설명 | 심플리 런
+https://youtu.be/M988_fsOSWo
+
+# 에너지
+o 열역학
+https://godjunpyo.com/%ec%97%b4%ec%97%ad%ed%95%99/?mod=document&uid=350
+
+o ECO2 프로그램 사용 매뉴얼
+https://bit.ly/3LqGQzG
+
+o Engineering Equation Solver 
+https://fchartsoftware.com/ees/
+https://steemit.com/python/@emalron/ees-make-your-own-ees-using-python
+
+
+# 인공지능
+o 교차 검증
+https://bit.ly/3QXc7eJ
+
+o GridSearchCV , RandomSearchCV
+https://dacon.io/codeshare/4568
+
+o Catboost
+https://dailyheumsi.tistory.com/136
+
+o [도서]XGBoost와 사이킷런을 활용한 그레이디언트 부스팅 
+https://www.hanbit.co.kr/store/books/look.php?p_code=B5725043400
+https://bit.ly/hogb-git
+
+o I AM AI | NVIDIA GTC 2022 | Official Keynote Intro
+https://youtu.be/JeapuI9ypk0
+
+o 이 영상 하나로 '인공지능', '딥러닝'을 이해할 수 있다 | 우버 머신러닝 엔지니어 김형진 [리얼밸리 EP 05]
+https://youtu.be/aF03asAmQbY
+
+o 인공지능의 현재와 미래
+https://youtu.be/lY3cdLrRr_o
+
+
+
+
