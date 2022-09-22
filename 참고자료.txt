@@ -1,4 +1,7 @@
 # 에너지 데이터 분석
+o Forecasting: Principles and Practice
+https://otexts.com/fppkr/
+
 o 데이터 과학자가 미래에 핫한 직업인 이유 | A사 데이터 과학자 권재명 [리얼밸리 EP 07]
 https://youtu.be/dZZfDj_ieEU
 
