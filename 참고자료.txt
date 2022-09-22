@@ -22,9 +22,13 @@ https://youtu.be/bAyrObl7TYE
 o 6 분 안에 클라우드 컴퓨팅 | 클라우드 컴퓨팅이란? | 클라우드 컴퓨팅 설명 | 심플리 런
 https://youtu.be/M988_fsOSWo
 
+
 # 에너지
 o 열역학
 https://godjunpyo.com/%ec%97%b4%ec%97%ad%ed%95%99/?mod=document&uid=350
+
+o 상태량 표와 이상기체
+https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=jhwoo1124&logNo=221516859414
 
 o ECO2 프로그램 사용 매뉴얼
 https://bit.ly/3LqGQzG
